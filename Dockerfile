@@ -1,6 +1,6 @@
 FROM quay.io/sampandey001/secktor
 
-RUN git clone https://github.com/caseyweb/QUEEN-CHARITY.git /root/STAR-KING0
+RUN git clone https://github.com/Veran350/QUEEN-HENTAI.git /root/STAR-KING0
 
 # Clear npm cache and remove node_modules directories
 RUN npm cache clean --force
