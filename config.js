@@ -13,7 +13,7 @@ global.allowJids = process.env.ALLOW_JID || "true";
 global.blockJids = process.env.BLOCK_JID || "null";
 global.DATABASE_URL = process.env.DATABASE_URL || "";
 global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Lagos";
-global.github = process.env.GITHUB || "https://github.com/caseyweb/QUEEN-CHARITY";
+global.github = process.env.GITHUB || "https://github.com/Veran350/QUEEN-HENTAI";
 global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VajIDgjDZ4LVnxfB1Z2s";
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029VajIDgjDZ4LVnxfB1Z2s";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://files.catbox.moe/6xuv7u.jpg";
@@ -48,11 +48,11 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "`QUEEN_CHARITY™`",
-  author: process.env.PACK_AUTHER || "𒀱ꪳ𓊈𒆜𓂀ᴸᴼᴿᴰℂ𝔸𝕊𝔼𝕐ℝℍ𝕆𝔻𝔼𝕊𓂀𒆜𓊉 𒀱",
-  packname: process.env.PACK_NAME || "𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒 𝐓𝐄𝐂𝐇",
-  botname: process.env.BOT_NAME || "`𝗤𝗨𝗘𝗘𝗡_𝗖𝗛𝗔𝗥𝗜𝗧𝗬`",
-  ownername: process.env.OWNER_NAME || "𒀱ꪳ𓊈𒆜𓂀ᴸᴼᴿᴰℂ𝔸𝕊𝔼𝕐ℝℍ𝕆𝔻𝔼𝕊𓂀𒆜𓊉 𒀱",
+  caption: process.env.CAPTION || "`QUEEN_HENTAI™`",
+  author: process.env.PACK_AUTHER || "VERAN",
+  packname: process.env.PACK_NAME || "VERAN-TECH-HUB ",
+  botname: process.env.BOT_NAME || "`𝗤𝗨𝗘𝗘𝗡_HENTAI`",
+  ownername: process.env.OWNER_NAME || "VERAN",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
