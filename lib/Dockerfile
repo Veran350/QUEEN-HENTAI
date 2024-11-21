@@ -9,8 +9,8 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/caseyweb/QUEEN-CHARITY  /root/caseyweb
-WORKDIR /root/caseyweb/
+RUN git clone https://github.com/Veran350/QUEEN-HENTAI  /root/Veran350
+WORKDIR /root/Veran350/
 
 
 COPY package.json .
