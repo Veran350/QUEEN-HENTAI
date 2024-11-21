@@ -1,7 +1,7 @@
 {
    "name": "QUEEN-HENTAI",
    "version": "2.5.0",
-   "description": "Multi device whatsapp bot by Caseyweb.",
+   "description": "Multi device whatsapp bot by VERAN-TECH-HUB.",
    "main": "index.js",
    "type": "commonjs",
    "scripts": {
@@ -82,5 +82,5 @@
    "bugs": {
       "url": "https://github.com/Veran350/QUEEN-HENTAI/issues"
    },
-   "homepage": "https://github.com/Veran350/QUEEN HENTAI#readme"
+   "homepage": "https://github.com/Veran350/QUEEN-HENTAI#readme"
 }
