@@ -29,7 +29,7 @@ smd(
 *Uptime:* ${uptime}
 
 
-== |☘️|Powered By Caseyrhodes|☘️| ==
+== |📚|Powered By VERAN-TECH-HUB📚| ==
     `;
 
     // Send the final message directly
