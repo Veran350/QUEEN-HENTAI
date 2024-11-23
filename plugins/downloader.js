@@ -70,7 +70,7 @@ const path = require ("path");
 *Followers:* ${followers}
 *Following:* ${following}
 
-\t*Queen_CHARITY IG STALKER*
+\t*QUEEN_HENTAI IG STALKER*
 `;
 
       await m.bot.sendFromUrl(m.from, photo_profile, caption, m, {}, "image");
@@ -536,7 +536,7 @@ smd(
 
       if (!repoUrl) {
         return await _0x1ae8f8.reply(
-          "*Provide Repo URL, e.g., .git https://github.com/STAR-KING0/Queen_MARIA_*"
+          "*Provide Repo URL, e.g., .git https://github.com/VERAN350/QUEEN-HENTAI_*"
         );
       }
 
