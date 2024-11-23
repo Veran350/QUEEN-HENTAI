@@ -40,4 +40,4 @@ href='https://github.com/Veran350/QUEEN-HENTAI/fork' target="_blank"><img alt='F
 <hr>
 <b>GET SESSION ID VIA PAIR CODE 01</b>
 
-<a href='https://veran-session-id.onrender.com/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-green?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+<a href='https://veran-session-id.onrender.com/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-purple?style=for-the-badge&logo=opencv&logoColor=white'/></a>
