@@ -16,3 +16,15 @@
 </p>
 </a>
 </div>
+
+### Please Read !
+QUEEN-HENTAI, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before.QUEEN-HENTAI bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖.We are not responsible for any problems caused by your use of this
+[Join the WhatsApp channel](https://whatsapp.com/channel/0029VajIDgjDZ4LVnxfB1Z2s) for any issues that arise during the bot creation process.
+And fork this repo and give one star for QUEEN-HENTAI. 
+Contact Developer on [telgram](https://t.me/Tickic).
+[WhatsApp](https://wa.link/ybhee3)
+
+### `VERSION : 1.0.0 - V`
+ `Last Update : ` _2024-11-23_ | [Update Info](/new-update.md)
+
+#### Give One star For QUEEN-HENTAI and [Follow Me](https://whatsapp.com/channel/0029VajIDgjDZ4LVnxfB1Z2s) 
