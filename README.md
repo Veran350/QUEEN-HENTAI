@@ -37,6 +37,7 @@ Contact Developer on [telgram](https://t.me/Tickic).
 <a
 href='https://github.com/Veran350/QUEEN-HENTAI/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 <hr>
-<b>GET SESSION ID VIA PAIR CODE 01</b>
+
+<b>GET SESSION ID VIA PAIR CODE</b>
 
 <a href='https://veran-session-id.onrender.com/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-purple?style=for-the-badge&logo=opencv&logoColor=white'/></a>
