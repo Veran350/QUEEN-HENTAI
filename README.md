@@ -28,3 +28,11 @@ Contact Developer on [telgram](https://t.me/Tickic).
  `Last Update : ` _2024-11-23_ | [Update Info](/new-update.md)
 
 #### Give One star For QUEEN-HENTAI and [Follow Me](https://whatsapp.com/channel/0029VajIDgjDZ4LVnxfB1Z2s) 
+
+
+<h3 align="center"><b>QUEEN-HENTAI</b> DEPLOYMENT METHODS
+</h3>
+
+### 1. FORK THIS REPO
+<a
+href='https://github.com/Veran350/QUEEN-HENTAI/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
